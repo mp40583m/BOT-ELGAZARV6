@@ -24,12 +24,12 @@ global.location = "Africa, Egypt, Qena" //ur location
 //bot bomdy 
 global.ownernomer = "201555465787" //ur number
 global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
+global.botname = '❤️𝐌𝐀𝐈𝐊𝐘 𝐁𝐎𝐓❤️' //ur bot name
 global.linkz = "https://www.facebook.com/profile.php?id=100084931602196&mibextid=ZbWKwL" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.facebook.com/profile.php?id=100084931602196&mibextid=ZbWKwL" //ur website to be displayed
 global.botscript = 'https://www.facebook.com/profile.php?id=100084931602196&mibextid=ZbWKwL' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الزعيم الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣ مايكي بيحبك عفكرة⍣" //ur sticker watermark packname
 global.author = "⍣201284329186⍣" //ur sticker watermark author
 global.wm = "❤️ELZ3AM ᗷOT❤️." //ur watermark
 
@@ -42,13 +42,13 @@ global.sp = ''
 global.mess = {
     success: 'تم يروحي✨',
     admin: '『 الامر دا لادمن بس! 』',
-    botAdmin: '『 ارفع البوت ادمن الاول 』',
+    botAdmin: '『 ارفع البوت ادمن يزم 』',
     premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
     owner: '『 الميزه دي للمطور بس! 』',
     group: '『 الميزه دي للجروبات بس! 』',
     private: '『 الميزه دي في الخاص بس! 』',
     bot: '『 الميزه دي للبوت بس! 』',
-    wait: '『 استني شويه... 』',
+    wait: '『 استنا شويه... 』',
     linkm: '『 فين الرابط? 』',
     endLimit: 'انتهت صلاحية الحد اليومي الخاص بك ، وسيتم إعادة تعيين الحد كل 12 ساعة',
     nsfw: 'لم يتم تنشيط ميزة nsfw ، يرجى الاتصال بالمسؤول للتفعيل',
